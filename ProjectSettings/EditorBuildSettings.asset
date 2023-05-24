@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu/MainMenu.unity
+    guid: 17fb5494b7500ce439366cfb02289d32
+  - enabled: 1
+    path: Assets/Scenes/Level Select/LevelSelect.unity
+    guid: 70151531919b482469802b9c3364aeb1
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KogelKranen/KogelkraanPuzzel.unity
+    guid: 02245fb8188057a4687efccdee1dec65
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/PlugKranen/plugkraanQuiz.unity
+    guid: 27f422071381b1b489705c9e1c4aaf2c
+  - enabled: 1
+    path: Assets/Scenes/DoorverwijsScherm/DoorverwijsScherm.unity
+    guid: baa4f98905a5d1c4f9241d60aeff91fa
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KogelKranen/quizKogelkraan.unity
+    guid: f904700f4e05ae744aeb460ac6ff059d
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/Terugslagkleppen/QuizTerugslagKleppen.unity
+    guid: 5c290d1a75644064a8a47448520dd60b
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/VeiligheidsToestellen/quizVeerVeiligheid.unity
+    guid: 770a2756ca5fb854fbfce2a81f138815
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/Vlinderkleppen/quizVlinderkleppen.unity
+    guid: 1d410cee29b57e4458ef3221d381946c
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KogelKranen/introKogelkraan.unity
+    guid: 4f214eb03dff9a445b6a0296a7203942
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/Vlinderkleppen/introVlinderKleppen.unity
+    guid: d746be3efce9b0443acf955ea61dba43
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/PlugKranen/introPlugKraan.unity
+    guid: 7fa9b93d6419c1d40b8b540441637f51
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/MembraanAfsluiter/introMembraanAfsluiter.unity
+    guid: b3772edc22753794695155c25f3d477b
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/SchuifAfsluiter/introSchuifAfsluiter.unity
+    guid: b902cec1c166310419d8f726d88a1f20
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KlepAfsluiters/introKlepAfsluiters.unity
+    guid: 81f8e3673a9070244a9c9a9a6f19231c
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/Terugslagkleppen/introTerugslagKleppen.unity
+    guid: edc1d4ac61789144182fdf70a1c7207c
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/VeiligheidsToestellen/introVeerVeiligheidsToestel.unity
+    guid: edb7d2a47c90f2b4ea504936eddaddce
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/LeidingFilters/introLeidingFilters.unity
+    guid: ff91ce4b7fa08144f8ebc9354c0d1cc1
+  - enabled: 1
+    path: Assets/Scenes/Instellingen/Instellingen.unity
+    guid: 30c4c0e19f122f94e8f741806a565b69
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KogelKranen/KogelKraanDoorverwijsQuiz.unity
+    guid: 67f77ce105793bc4f9112ac35a182290
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/Vlinderkleppen/DoorverwijsVlinderQuiz.unity
+    guid: 705c1c8ba78c7dc42993a16595b4d9b1
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/PlugKranen/DoorverwijsPlugKraanQuiz.unity
+    guid: 91099f02569338149b3e8a80d9f18179
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/MembraanAfsluiter/quizMembraan.unity
+    guid: e899b98e668b6ff4ab42951f1b41c388
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/MembraanAfsluiter/MembraanDoorverwijs.unity
+    guid: 7aa12402138c43b4d8e80d71897d0594
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/SchuifAfsluiter/SchuifDoorverwijsscherm.unity
+    guid: 64261f62160c9fd4a8eb7b2238384234
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/SchuifAfsluiter/quizSchuifafsluiter.unity
+    guid: 1397014a217605749aeefacc2c7b878e
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KlepAfsluiters/KlepDoorverwijs.unity
+    guid: d3860dd3c78c151429ba45e0b7d64d22
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/KlepAfsluiters/quizKlepAfsluiter.unity
+    guid: 24765f89c249e72419c36677e6904547
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/LeidingFilters/Ledingdoorverwijs.unity
+    guid: 5a2a2418d5839f04c8fe1d70081d611c
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/LeidingFilters/quizLeidingFilters.unity
+    guid: 5edb0919a411ac04e9d330582340115c
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/Terugslagkleppen/TerugslagDoorverwijs.unity
+    guid: c092306cb352ed64aab72dba2ad7d4e8
+  - enabled: 1
+    path: Assets/Scenes/Info paginas/Kleppen en kranen/VeiligheidsToestellen/VeerveiligheidDoorverwijs.unity
+    guid: 927536631a867a549af9c84ae7f416f2
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Vlinderkraan Puzzel.unity
+    guid: 64bd6a4e8a0e995428abe7a50d94129e
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/SchuifPuzzel.unity
+    guid: 28dbeaf4c4409c04eaa864d0b7b7e9f0
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/kogelkraan.unity
+    guid: 50063afa90da55a4ca921de6ac951580
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/membraanafsluiter A.unity
+    guid: 259d7553ca58eed48a613ee5ae3d5fc3
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/plugkraan.unity
+    guid: bd78540aeaddaf64f8a8c62728e9a749
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Terugslagklep.unity
+    guid: 6c1f6268acae9f04880a40a2b7119c7c
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/Veerveiligheidstoestel.unity
+    guid: 4efaaa1ac5a69054dba611d5f85e8e84
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/leidingfilterpuzzel.unity
+    guid: 511cdd6d1a908834b8e5b20c961e3ed7
+  - enabled: 1
+    path: Assets/Scenes/Puzzels/klepafsluitpuzzel.unity
+    guid: 175e18899845bfe459d38cd6701ca6f0
+  m_configObjects: {}

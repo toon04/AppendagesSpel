@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgrpund
+    uniqueID: 1789576003
+    locked: 0
+  - name: Foreground
+    uniqueID: 292826833
+    locked: 0
+  - name: Achtergrond
+    uniqueID: 2712751679
+    locked: 0
+  - name: Mid grond
+    uniqueID: 361872625
+    locked: 0
+  - name: Voorgrond
+    uniqueID: 2289813427
+    locked: 0
+  - name: Actief
+    uniqueID: 2537091395
+    locked: 0
